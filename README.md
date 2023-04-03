@@ -39,12 +39,6 @@
     - Test: 테스트 코드, 리팩토링 테스트 코드 추가
     - Chore: 빌드 업무 수정, 패키지 매니저 수정
 
-- `branch 규칙`
-    - 각자의 영어 이름을 딴 branch 명을 사용한다.
-    - 예시: 
-    ```
-  git checkout -b <브랜치명>      
-  git checkout -b juwon
 ## 📚 목차
 - 1주차 알고리즘, CS
 - 2주차 알고리즘, Spring boot
