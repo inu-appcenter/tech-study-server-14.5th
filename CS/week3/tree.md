@@ -16,7 +16,7 @@
 
 ## Terms
 
-![Tree-Terms](week3/img/tree-terms.png)
+![Tree-Terms](img/tree-terms.png)
 
 - 루트 노드(root node): 부모가 없는 노드, 트리는 하나의 루트 노드만을 가진다.
 - 단말 노드(leaf node): 자식이 없는 노드, ‘말단 노드’ 또는 ‘잎 노드’라고도 부른다.
@@ -73,7 +73,7 @@
 
 ---
 
-![tree-types-ex](week3/tree-types.example.png)
+![tree-types-ex](img/tree-types.example.png)
 
 - 전 이진 트리 (Full)
   - 모든 노드가 0개 or 2개의 자식 노드를 갖는 트리
