@@ -73,7 +73,7 @@
 
 ---
 
-![tree-types-ex](img/tree-types.example.png)
+![tree-types-ex](img/tree-types-example.png)
 
 - 전 이진 트리 (Full)
   - 모든 노드가 0개 or 2개의 자식 노드를 갖는 트리
